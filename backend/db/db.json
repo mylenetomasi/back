@@ -1,0 +1,33 @@
+{
+  "categorias": [
+    {
+      "nome": "hjhhuiigh",
+      "classificacao": "higihih",
+      "id": 1
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "fasdfasdffdeeeeeeee",
+      "id": 1
+    },
+    {
+      "nome": "jçhrtd",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Livro 1",
+      "categoryId": 1,
+      "publisherId": 1
+    },
+    {
+      "id": 1,
+      "title": "Livro 2",
+      "categoryId": 2,
+      "publisherId": 1
+    }
+  ]
+}
