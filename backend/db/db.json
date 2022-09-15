@@ -20,18 +20,26 @@
       "id": 3
     }
   ],
-  "books": [
+  "autors":[
+    {
+      "id": 1,
+      "nome": "Mylene"
+    }
+  ],
+  "livros": [
     {
       "id": 1,
       "title": "Livro 1",
-      "categoryId": 1,
-      "publisherId": 1
+      "categoriaId": 1,
+      "editoraId": 1,
+      "autorId": 1
     },
     {
       "id": 1,
       "title": "Livro 2",
-      "categoryId": 2,
-      "publisherId": 1
+      "categoriaId": 2,
+      "editoraId": 1,
+      "autorId": 1
     }
   ]
 }
